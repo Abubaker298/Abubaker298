@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%" alt="Header Banner">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" alt="Header Banner">
 </div>
 
 <h1 align="center">Hi there, I'm Abu Baker! 👋</h1>
