@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" alt="Header Banner">
-</div>
-
 <h1 align="center">Hi there, I'm Abu Baker! 👋</h1>
 <h3 align="center">Unity Game Developer | AI & Gameplay Systems Engineer | Lahore, PK</h3>
 
