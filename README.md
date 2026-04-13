@@ -39,6 +39,7 @@
 ### 🚀 Featured Games (10M+ Combined Downloads)
 | Game | Genre | My Role / Focus |
 | :--- | :--- | :--- |
+| **[Unity Work OS](https://abubakers-portfolio.netlify.app)** | Enterprise SaaS | React, Firebase, Gamified Kanban, Live Chat, GitHub Sync |
 | **[Prison Escape Master Mind](https://play.google.com/store/apps/details?id=com.gp10.prisonescapegame.jailbreak)** | Stealth / Strategy | Patrol AI, Vision Cones, FSM |
 | **[Arena Champions: Fighting](https://play.google.com/store/apps/details?id=com.gsb.fightinggames.championsarena)** | Action / Combat | Combo Systems, Controllers |
 | **[Pet Supermarket Simulator](https://play.google.com/store/apps/details?id=com.gsb.supermarket.simulator.games)** | Simulation / Management | Economy Loops, JSON Save Data |
