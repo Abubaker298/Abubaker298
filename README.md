@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://abubakers-portfolio.netlify.app" target="_blank">
+  <a href="https://theabubaker.com" target="_blank">
     <img src="https://img.shields.io/badge/View_Portfolio-00E5FF?style=for-the-badge&logo=Web&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/abu-baker-741556291/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:bakerrana298@gmail.com">
+  <a href="mailto:abu@theabubaker.com">
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
